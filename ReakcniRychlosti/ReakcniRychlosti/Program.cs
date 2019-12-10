@@ -35,19 +35,15 @@ namespace ReakcniRychlosti
     */
     class Program
     {
-
         static void Main(string[] args)
         {
-
             Stopwatch cas = new Stopwatch(); /*Třída pro měření času*/
             Random random = new Random(); /*Třída pro generování náhodných čísel */
-            int uspesnost = 0; /*Proměnná pro meření úspešnosti uživatele */
-            char[] znamenka = new char[] { '+', '-', '/', '*' }; /*Pole operátorů pro náhoodné generování příkladů*/
             TimeSpan time = new TimeSpan { }; /*Časový interval jednoho cyklu */
-            TimeSpan vs; /*Průměrná délka všech cyklů */
-            string uplynulycas; /*Řetězec pro vypsání průměrného času*/
-            
 
+            int uspesnost = 0; /*Proměnná pro meření úspešnosti uživatele */
+            char[] znamenka = new char[] { '+', '-', '/', '*' }; /*Pole operátorů pro náhoodné generování příkladů*/           
+                                            
             for (int i = 0; i < 5; i++) /*Cyklus pro generování příkladů */
             {
                 int a = random.Next(-10, 10); /*Generování náhodné proměnné a z intervalu */
@@ -82,47 +78,26 @@ namespace ReakcniRychlosti
                 {
                     Console.WriteLine($"Vypocitej: {a}{rand}{b}");
                 }
+                                
 
-                if (rand == '/' && b == 0)
-                {
-                    --i;
-                    continue;
-                }
-
-                cas.Start();
-                int odpoved;
+                cas.Start();               
             
-                string vstup = Console.ReadLine(); /*Vstup uživatele */
-                Type tp = vstup.GetType();
-                if (tp.Equals(typeof(string)))
-                {
-                    Console.WriteLine("Zadej cislo");
-                    odpoved = int.Parse(Console.ReadLine());
-                }
-                else
-                {
-                    odpoved = int.Parse(vstup);
-                }
-                
-                cas.Stop();
+                double vstup = double.Parse(Console.ReadLine()); /*Vstup uživatele */
 
-                if (odpoved == vysledek)
+                cas.Stop();                
+                time += cas.Elapsed;
+                cas.Reset();
+
+                if (vstup == vysledek)
                 {
                     ++uspesnost;
                 }
             }
-            time += cas.Elapsed;
-            vs = time / 5 ;
 
-            
-            uplynulycas = String.Format("{00:00}.{00:00}", vs.Seconds, vs.Milliseconds);
-            
-
-            Console.WriteLine($"Vase uspesnost je: {uspesnost}/5");                       
-            Console.WriteLine($"Vase prumerna reakcni doba je:{uplynulycas}");
-       
-                        
-            Console.ReadKey();          
+            Console.WriteLine($"Prumerna reakcni doba je: {time.TotalMilliseconds / 5} ms");
+            Console.WriteLine($"Vase uspesnost je: {uspesnost}/5");
+                       
+            Console.ReadKey();
 
         }
     }

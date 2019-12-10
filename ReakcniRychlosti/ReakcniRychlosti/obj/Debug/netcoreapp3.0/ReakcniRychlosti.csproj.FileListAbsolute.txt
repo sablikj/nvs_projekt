@@ -31,3 +31,14 @@ C:\Users\jansa\Desktop\UTB\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreap
 C:\Users\jansa\Desktop\UTB\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.AssemblyInfo.cs
 C:\Users\jansa\Desktop\UTB\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.dll
 C:\Users\jansa\Desktop\UTB\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.pdb
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\bin\Debug\netcoreapp3.0\ReakcniRychlosti.exe
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\bin\Debug\netcoreapp3.0\ReakcniRychlosti.deps.json
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\bin\Debug\netcoreapp3.0\ReakcniRychlosti.runtimeconfig.json
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\bin\Debug\netcoreapp3.0\ReakcniRychlosti.runtimeconfig.dev.json
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\bin\Debug\netcoreapp3.0\ReakcniRychlosti.dll
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\bin\Debug\netcoreapp3.0\ReakcniRychlosti.pdb
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.csprojAssemblyReference.cache
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.AssemblyInfoInputs.cache
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.AssemblyInfo.cs
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.dll
+C:\Users\jansa\Documents\nvs_projekt\ReakcniRychlosti\ReakcniRychlosti\obj\Debug\netcoreapp3.0\ReakcniRychlosti.pdb

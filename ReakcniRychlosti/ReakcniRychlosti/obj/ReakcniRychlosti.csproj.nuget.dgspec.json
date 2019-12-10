@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\david\\Documents\\MEGA\\UTB\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj": {}
+    "C:\\Users\\jansa\\Documents\\nvs_projekt\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj": {}
   },
   "projects": {
-    "C:\\Users\\david\\Documents\\MEGA\\UTB\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj": {
+    "C:\\Users\\jansa\\Documents\\nvs_projekt\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\david\\Documents\\MEGA\\UTB\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj",
+        "projectUniqueName": "C:\\Users\\jansa\\Documents\\nvs_projekt\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj",
         "projectName": "ReakcniRychlosti",
-        "projectPath": "C:\\Users\\david\\Documents\\MEGA\\UTB\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj",
-        "packagesPath": "C:\\Users\\david\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\david\\Documents\\MEGA\\UTB\\ReakcniRychlosti\\ReakcniRychlosti\\obj\\",
+        "projectPath": "C:\\Users\\jansa\\Documents\\nvs_projekt\\ReakcniRychlosti\\ReakcniRychlosti\\ReakcniRychlosti.csproj",
+        "packagesPath": "C:\\Users\\jansa\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jansa\\Documents\\nvs_projekt\\ReakcniRychlosti\\ReakcniRychlosti\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\david\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\jansa\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
