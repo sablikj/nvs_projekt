@@ -9,3 +9,5 @@ VÝSTUP
 • Informace o průměrné reakční době.
 
  Autoři: Jan Sáblík, Adéla Kovářová, David Bilnica
+ 
+ # gut džob
