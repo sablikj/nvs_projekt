@@ -8,4 +8,4 @@ VÝSTUP
 • Informace o úspěšnosti (kolikrát bylo zodpovězeno správně),
 • Informace o průměrné reakční době.
 
-# Autoři: Jan Sáblík, Adéla Kovářová, David Bilnica
+ Autoři: Jan Sáblík, Adéla Kovářová, David Bilnica
